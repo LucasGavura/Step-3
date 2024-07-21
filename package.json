@@ -1,7 +1,7 @@
 {
   "name": "step3",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/step3",
+  "homepage": "https://gitname.github.io/Step-3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
