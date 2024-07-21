@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/step3/static/css/main.2a69b4fb.css",
-    "main.js": "/step3/static/js/main.4590e5a1.js",
-    "static/js/453.9780f79e.chunk.js": "/step3/static/js/453.9780f79e.chunk.js",
-    "static/media/Home.png": "/step3/static/media/Home.fe98fa91dea3dc71ac0a.png",
-    "index.html": "/step3/index.html",
-    "main.2a69b4fb.css.map": "/step3/static/css/main.2a69b4fb.css.map",
-    "main.4590e5a1.js.map": "/step3/static/js/main.4590e5a1.js.map",
-    "453.9780f79e.chunk.js.map": "/step3/static/js/453.9780f79e.chunk.js.map"
+    "main.css": "/Step-3/static/css/main.0a78f571.css",
+    "main.js": "/Step-3/static/js/main.5bfbcb0b.js",
+    "static/js/453.9780f79e.chunk.js": "/Step-3/static/js/453.9780f79e.chunk.js",
+    "static/media/Home.png": "/Step-3/static/media/Home.fe98fa91dea3dc71ac0a.png",
+    "index.html": "/Step-3/index.html",
+    "main.0a78f571.css.map": "/Step-3/static/css/main.0a78f571.css.map",
+    "main.5bfbcb0b.js.map": "/Step-3/static/js/main.5bfbcb0b.js.map",
+    "453.9780f79e.chunk.js.map": "/Step-3/static/js/453.9780f79e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a69b4fb.css",
-    "static/js/main.4590e5a1.js"
+    "static/css/main.0a78f571.css",
+    "static/js/main.5bfbcb0b.js"
   ]
 }
