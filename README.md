@@ -1,2 +1,4 @@
-# Step-3
-The repo for step 3 of the website for SEG3125
+# Gamer-Fitness
+The final mock website
+
+Visit the website at: ["https://gitname.github.io/Gamer-Fitness"](https://LucasGavura.github.io/Gamer-Fitness)

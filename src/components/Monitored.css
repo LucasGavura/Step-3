@@ -1,0 +1,57 @@
+.monitored {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.workout-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.workout-table th,
+.workout-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.workout-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.workout-table input[type="text"],
+.workout-table input[type="number"],
+.workout-table input[type="date"] {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.add-row-btn {
+  margin-top: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.add-row-btn:hover {
+  background-color: #45a049;
+}
+
+.delete-row-btn {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.delete-row-btn:hover {
+  background-color: #d32f2f;
+}
